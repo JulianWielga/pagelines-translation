@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the PageLines Framework package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-09-25 15:13+0100\n"
+"PO-Revision-Date: 2012-09-25 16:03+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2927,4 +2927,4 @@ msgstr ""
 
 #: sections/postauthor/section.php:47
 msgid "Visit Authors Website"
-msgstr ""
+msgstr "Odwiedź stronę autora"
