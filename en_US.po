@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2012-09-25 15:16+0100\n"
+"PO-Revision-Date: 2012-09-26 10:55+0100\n"
 "Last-Translator: Julian Wielga <j.poedit@touk.pl>\n"
 "Language-Team: \n"
 "X-Generator: Poedit 1.5.3\n"
@@ -1794,7 +1794,7 @@ msgstr ""
 
 #: includes/class.posts.php:28
 msgid "[Continue Reading...]"
-msgstr "Continue Reading…"
+msgstr "Continue Reading &rarr;"
 
 #: includes/class.posts.php:248
 msgid "<p class='content-pagination'><span class='cp-desc'>pages:</span>"
